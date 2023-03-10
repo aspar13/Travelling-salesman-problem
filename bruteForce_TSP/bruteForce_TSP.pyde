@@ -68,8 +68,5 @@ def draw():
         best = route1
         
         textSize(25)
-
-
-        
         random_improvements += 1
  
